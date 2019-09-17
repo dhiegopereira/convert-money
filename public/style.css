@@ -6,6 +6,11 @@
         height: 100%;
         background:silver !important;
     }
+
+    .label-sub-title {
+        width: 100px;
+    }
+
     .user_card {
         height: 400px;
         width: 350px;
